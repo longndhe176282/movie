@@ -1,0 +1,842 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\LTS EDU\\intern\\interntest-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\promotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\promotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\rankcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\rankcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\billstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\billstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\userstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\userstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\iconstant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:iconstant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\vnpayobj\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:vnpayobj\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\updateprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\updateprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\billstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\billstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\vnpayobj\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:vnpayobj\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\createbillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\createbillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\billfoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\billfoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadcinemarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadcinemarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\ibillstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\ibillstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\loadbillstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\loadbillstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\entities\\billtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:entities\\billtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\newmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\newmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\newschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\newschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\updateschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\updateschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|f:\\lts edu\\intern\\interntest-backend\\requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD919DB-D029-403A-A259-0D37A25B17EE}|InternTest-Backend.csproj|solutionrelative:requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1144,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Controllers\\BillController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "promotions.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\promotions.cs",
+              "RelativeDocumentMoniker": "Entities\\promotions.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\promotions.cs",
+              "RelativeToolTip": "Entities\\promotions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bills.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\bills.cs",
+              "RelativeDocumentMoniker": "Entities\\bills.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\bills.cs",
+              "RelativeToolTip": "Entities\\bills.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwKUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rankCustomers.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\rankCustomers.cs",
+              "RelativeDocumentMoniker": "Entities\\rankCustomers.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\rankCustomers.cs",
+              "RelativeToolTip": "Entities\\rankCustomers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwD8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadMovieRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadMovieRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadMovieRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadMovieRequest.cs",
+              "RelativeToolTip": "Requests\\LoadMovieRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBillService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IBillService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBillService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IBillService.cs",
+              "RelativeToolTip": "Interfaces\\IBillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAIAwwFkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BillService.cs",
+              "RelativeDocumentMoniker": "Services\\BillService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BillService.cs",
+              "RelativeToolTip": "Services\\BillService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillStatusController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\BillStatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillStatusController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\BillStatusController.cs",
+              "RelativeToolTip": "Controllers\\BillStatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "userStatuses.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\userStatuses.cs",
+              "RelativeDocumentMoniker": "Entities\\userStatuses.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\userStatuses.cs",
+              "RelativeToolTip": "Entities\\userStatuses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "constant.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\IConstant\\constant.cs",
+              "RelativeDocumentMoniker": "IConstant\\constant.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\IConstant\\constant.cs",
+              "RelativeToolTip": "IConstant\\constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\ChangePasswordRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "Requests\\ChangePasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\VnpayObj\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "VnpayObj\\VnPayLibrary.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\VnpayObj\\VnPayLibrary.cs",
+              "RelativeToolTip": "VnpayObj\\VnPayLibrary.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwIoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProfileRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateProfileRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\UpdateProfileRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateProfileRequest.cs",
+              "RelativeToolTip": "Requests\\UpdateProfileRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\FoodService.cs",
+              "RelativeToolTip": "Services\\FoodService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "schedules.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\schedules.cs",
+              "RelativeDocumentMoniker": "Entities\\schedules.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\schedules.cs",
+              "RelativeToolTip": "Entities\\schedules.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CinemaController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "Controllers\\CinemaController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CinemaService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\CinemaService.cs",
+              "RelativeDocumentMoniker": "Services\\CinemaService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\CinemaService.cs",
+              "RelativeToolTip": "Services\\CinemaService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BillStatusService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BillStatusService.cs",
+              "RelativeDocumentMoniker": "Services\\BillStatusService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BillStatusService.cs",
+              "RelativeToolTip": "Services\\BillStatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BannerService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BannerService.cs",
+              "RelativeDocumentMoniker": "Services\\BannerService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\BannerService.cs",
+              "RelativeToolTip": "Services\\BannerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderInfo.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\VnpayObj\\OrderInfo.cs",
+              "RelativeDocumentMoniker": "VnpayObj\\OrderInfo.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\VnpayObj\\OrderInfo.cs",
+              "RelativeToolTip": "VnpayObj\\OrderInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateBillRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\CreateBillRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\CreateBillRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\CreateBillRequest.cs",
+              "RelativeToolTip": "Requests\\CreateBillRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoadTicketRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadTicketRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadTicketRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadTicketRequest.cs",
+              "RelativeToolTip": "Requests\\LoadTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "Services\\ScheduleService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwD4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "billFoods.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\billFoods.cs",
+              "RelativeDocumentMoniker": "Entities\\billFoods.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\billFoods.cs",
+              "RelativeToolTip": "Entities\\billFoods.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoadCinemaRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadCinemaRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadCinemaRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadCinemaRequest.cs",
+              "RelativeToolTip": "Requests\\LoadCinemaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoadRoomRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadRoomRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadRoomRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadRoomRequest.cs",
+              "RelativeToolTip": "Requests\\LoadRoomRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICinemaService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\ICinemaService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICinemaService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\ICinemaService.cs",
+              "RelativeToolTip": "Interfaces\\ICinemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoadScheduleRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadScheduleRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadScheduleRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadScheduleRequest.cs",
+              "RelativeToolTip": "Requests\\LoadScheduleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IScheduleService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IScheduleService.cs",
+              "RelativeToolTip": "Interfaces\\IScheduleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMovieService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Interfaces\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBillStatusService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IBillStatusService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBillStatusService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IBillStatusService.cs",
+              "RelativeToolTip": "Interfaces\\IBillStatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoadBillStatusRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadBillStatusRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\LoadBillStatusRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\LoadBillStatusRequest.cs",
+              "RelativeToolTip": "Requests\\LoadBillStatusRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITicketService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "Interfaces\\ITicketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "billTickets.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\billTickets.cs",
+              "RelativeDocumentMoniker": "Entities\\billTickets.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Entities\\billTickets.cs",
+              "RelativeToolTip": "Entities\\billTickets.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NewMovieRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\NewMovieRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\NewMovieRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\NewMovieRequest.cs",
+              "RelativeToolTip": "Requests\\NewMovieRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NewScheduleRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\NewScheduleRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\NewScheduleRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\NewScheduleRequest.cs",
+              "RelativeToolTip": "Requests\\NewScheduleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateScheduleRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateScheduleRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\UpdateScheduleRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateScheduleRequest.cs",
+              "RelativeToolTip": "Requests\\UpdateScheduleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRoomService.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "Interfaces\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateMovieRequest.cs",
+              "DocumentMoniker": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateMovieRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\UpdateMovieRequest.cs",
+              "ToolTip": "F:\\LTS EDU\\intern\\interntest-backend\\Requests\\UpdateMovieRequest.cs",
+              "RelativeToolTip": "Requests\\UpdateMovieRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:18:31.286Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
